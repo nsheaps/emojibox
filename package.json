@@ -1,0 +1,26 @@
+{
+  "name": "slackmoji-uploader",
+  "version": "0.0.1",
+  "description": "Uploads emojis to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsheaps/slackmoji-uploader.git"
+  },
+  "keywords": [
+    "slack",
+    "emoji",
+    "uploader",
+    "tools",
+    "tool"
+  ],
+  "author": "nsheaps",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/nsheaps/slackmoji-uploader/issues"
+  },
+  "homepage": "https://github.com/nsheaps/slackmoji-uploader#readme"
+}
